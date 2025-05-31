@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: <Github className="w-5 h-5" />, href: 'https://github.com/RahmaRadwan0402 / ', label: 'GitHub' },
+    { icon: <Github className="w-5 h-5" />, href: 'https://github.com/RahmaRadwan0402 ', label: 'GitHub' },
     { icon: <Linkedin className="w-5 h-5" />, href: 'https://www.linkedin.com/in/rahma-radwan-youssef-91078a353/ ', label: 'LinkedIn' },
    
   ];
