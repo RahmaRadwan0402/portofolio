@@ -90,7 +90,7 @@ const Hero: React.FC = () => {
                 {t('hero.cta.contact')}
               </motion.a>
               <motion.a 
-                href="./src/locales/images/Rahma.cv.pdf" 
+                href="\images\CV.pdf" 
                 className="btn btn-outline"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
