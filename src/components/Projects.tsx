@@ -24,7 +24,7 @@ const Projects: React.FC = () => {
     image: "/images/img1.jpeg",
 
       technologies: t('projects.1.tech'),
-      demoUrl: '#',
+      demoUrl: 'https://portofolio-six-rosy.vercel.app/',
       sourceUrl: 'https://github.com/RahmaRadwan0402/portofolio.git',
     },
     {
